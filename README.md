@@ -128,3 +128,9 @@ labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
 Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+
+SUMMARY REPORT:
+  In conclusion the analysis shows that the Reading score is higher than the Math score, in percentage. And There are more District schools than there are
+  Charter schools. 
+  The whole analysis shows that Charter schools perform much better than District schools, we can observe that our top five is only made of Charter schools, 
+  despite these having less budget. 
